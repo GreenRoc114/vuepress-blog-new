@@ -4,14 +4,14 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://ahhf45.top",
 
   author: {
     name: "GreenRoc",
     url: "https://ahhf45.top",
   },
 
-  logo: "https://cd.ahhf45.top/r.php",
+  logo: "https://cd.ahhf45.top/img/IMG_0555.jpeg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
