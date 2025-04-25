@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://ahhf45.top",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://cd.ahhf45.top/r.php",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
