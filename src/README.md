@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: house
 title: GreenRoc
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://cd.ahhf45.top/img/IMG_0555.jpeg
 heroText: GreenRoc
 heroFullScreen: true
 bgImage: https://alist.ahhf45.top/d/covers/banner.jpg?sign=18ubfLjkrWKVFzpYluxqbQJ6-8qTPYVdLEi6C2KRljM=:0
